@@ -1,0 +1,15 @@
+# .gitignore
+
+# Node
+node_modules/
+.env
+
+# Output files
+*.pdf
+GeneratedPastPaper/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
